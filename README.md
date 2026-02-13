@@ -6,7 +6,7 @@ This project focuses on building a machine learning–based customer churn predi
 
 The project follows an end-to-end machine learning workflow, including data preprocessing, exploratory data analysis (EDA), feature engineering, model training, and performance evaluation. Multiple machine learning algorithms are applied and compared to determine the most effective model for predicting churn.
 
-Key Features
+Key Features --
 
 Data cleaning and preprocessing of customer dataset
 
